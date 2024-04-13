@@ -3,10 +3,9 @@
 ----
 ## A
 
-### aplayer-lyrics-lister
+### [aplayer-lyrics-lister](https://github.com/davidjimenez75/aplayer-lyrics-lister)
+APlayer + Small PHP script to list your own music with lyrics
 
-- APlayer + Small PHP script to list your own music with lyrics
-- [aplayer-lyrics-lister](https://github.com/davidjimenez75/aplayer-lyrics-lister)
 
 ### autohotkeys_v2 
 
